@@ -18,3 +18,7 @@ let totalmarks = 450;
 let maxmarks = 500;
 let percentage = (totalmarks/maxmarks)*100;
 console.log("pers : ",percentage);
+
+let Name = "fahman";
+let Age = 21;
+console.log("my name is " +Name+" and i am "+Age+" years old");
