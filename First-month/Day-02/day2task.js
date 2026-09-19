@@ -36,7 +36,7 @@ else
     console.log("-ve");
 }
     */
-
+/*
 let udername = "fahman";
 let password = "1234";
 if (udername === "fahman" && password === "1234")
@@ -47,3 +47,5 @@ else
 {
     console.log("login failed");
 }
+    */
+
